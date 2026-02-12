@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖",
+        title: "I knew you`d say yes❤️, I love you 🥰💖",
         showClass: {
           popup: `
             animate__animated
